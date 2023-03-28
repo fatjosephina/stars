@@ -1,0 +1,39 @@
+{
+    "1674574432108385:25528": {
+        "IResourceController": {
+            "name": "particle_stripes",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1667250320733013:114293",
+            "fileId": "1674574432109034:26027",
+            "originalId": "1674574432109036:26028",
+            "publicId": "1674574432109571:26222",
+            "expected_hash": "e6cf9245ef4936ffbab734a0d1d340fd"
+        },
+        "IResourceManager": {
+            "uid": "1667250320733013:114293",
+            "name": "Files/File_1674574432109034_26027",
+            "flags": 1
+        }
+    },
+    "1674574432109034:26027": {
+        "IFileManager": {
+            "path": "Files/File_1674574432109034_26027"
+        }
+    },
+    "1674574432109036:26028": {
+        "IFileManager": {
+            "path": "Files/File_1674574432109036_26028.lsmat"
+        }
+    },
+    "1674574432109571:26222": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/particle_stripes.lsmat",
+                "hash": "a0cff1376b647179a2aa465e28d34d07"
+            }
+        }
+    }
+}

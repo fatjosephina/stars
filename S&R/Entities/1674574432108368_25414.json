@@ -1,0 +1,42 @@
+{
+    "1674574432108368:25414": {
+        "IResourceController": {
+            "name": "mat_knit",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1603827143048626:7576063",
+            "fileId": "1674574432108641:25721",
+            "originalId": "1674574432108643:25722",
+            "publicId": "1674574432109517:26088",
+            "expected_hash": "b49e076ad2560882ca0cae925c69445a",
+            "additional": {
+                "isUnpackedInPublic": "false"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1603827143048626:7576063",
+            "name": "Files/File_1674574432108641_25721",
+            "flags": 1
+        }
+    },
+    "1674574432108641:25721": {
+        "IFileManager": {
+            "path": "Files/File_1674574432108641_25721"
+        }
+    },
+    "1674574432108643:25722": {
+        "IFileManager": {
+            "path": "Files/File_1674574432108643_25722.lsmat"
+        }
+    },
+    "1674574432109517:26088": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/mat_knit.lsmat",
+                "hash": "5dfc6e130f168a806264f5d63419acda"
+            }
+        }
+    }
+}

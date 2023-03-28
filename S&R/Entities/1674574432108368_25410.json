@@ -1,0 +1,79 @@
+{
+    "1603759869198992:12985754": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "3072",
+                        "uncompressed_hash": "ca5f46cecbdb2b7269cc9ac819c1703b"
+                    },
+                    "v": "1674574432108877:25907"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "1394606",
+                "compressedSize": "34857",
+                "extension": "jpg",
+                "originalRAM": "1048576",
+                "originalSize": "34857",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "3",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1674574432108854:25890"
+        }
+    },
+    "1674574432108368:25410": {
+        "IResourceController": {
+            "name": "fabric_params",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1603759869198992:12985754",
+            "fileId": "1674574432108632:25713",
+            "originalId": "1674574432108633:25714",
+            "publicId": "1674574432109516:26084",
+            "expected_hash": "ca5f46cecbdb2b7269cc9ac819c1703b",
+            "additional": {
+                "originHash": "ca5f46cecbdb2b7269cc9ac819c1703b"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1603759869198992:12985754",
+            "name": "Files/File_1674574432108632_25713.jpg",
+            "flags": 1
+        }
+    },
+    "1674574432108632:25713": {
+        "IFileManager": {
+            "path": "Files/File_1674574432108632_25713.jpg"
+        }
+    },
+    "1674574432108633:25714": {
+        "IFileManager": {
+            "path": "Files/File_1674574432108633_25714.jpg"
+        }
+    },
+    "1674574432108854:25890": {
+        "IFileManager": {
+            "path": "Files/File_1674574432108854_25890.jpg"
+        }
+    },
+    "1674574432108877:25907": {
+        "IFileManager": {
+            "path": "Files/File_1674574432108877_25907.jpg"
+        }
+    },
+    "1674574432109516:26084": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Character Textures/fabric_params.jpg",
+                "hash": "ca5f46cecbdb2b7269cc9ac819c1703b"
+            }
+        }
+    }
+}

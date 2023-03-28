@@ -1,0 +1,39 @@
+{
+    "1674574432108384:25521": {
+        "IResourceController": {
+            "name": "mat_grid",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1645563829756337:1594849",
+            "fileId": "1674574432109014:26011",
+            "originalId": "1674574432109015:26012",
+            "publicId": "1674574432109569:26215",
+            "expected_hash": "7451b712380501eb6b939b60c7e1fb0d"
+        },
+        "IResourceManager": {
+            "uid": "1645563829756337:1594849",
+            "name": "Files/File_1674574432109014_26011",
+            "flags": 1
+        }
+    },
+    "1674574432109014:26011": {
+        "IFileManager": {
+            "path": "Files/File_1674574432109014_26011"
+        }
+    },
+    "1674574432109015:26012": {
+        "IFileManager": {
+            "path": "Files/File_1674574432109015_26012.lsmat"
+        }
+    },
+    "1674574432109569:26215": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/mat_grid.lsmat",
+                "hash": "662a6942698ca7437ea3df598452b355"
+            }
+        }
+    }
+}

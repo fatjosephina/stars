@@ -1,0 +1,31 @@
+{
+    "1674574432108411:25534": {
+        "IFileManager": {
+            "path": "Files/File_1674574432108411_25534.hdr"
+        }
+    },
+    "1674574432109495:26031": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Default Textures/Echopark.hdr",
+                "hash": "0cf0e87a54f33218fcf92a12d7f0ede2"
+            }
+        }
+    },
+    "1674574432110426:26733": {
+        "IResourceController": {
+            "name": "Echopark",
+            "type": 9,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1674574432108411:25534",
+            "publicId": "1674574432109495:26031",
+            "expected_hash": "0cf0e87a54f33218fcf92a12d7f0ede2",
+            "resources": [
+                "1674574432108362:25373",
+                "1674574432108362:25374"
+            ]
+        }
+    }
+}

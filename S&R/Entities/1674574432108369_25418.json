@@ -1,0 +1,79 @@
+{
+    "1604002814339147:398697": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "3072",
+                        "uncompressed_hash": "e8ba960fde0512329f0f3fe28552e3a1"
+                    },
+                    "v": "1674574432108885:25913"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "1394606",
+                "compressedSize": "31245",
+                "extension": "jpg",
+                "originalRAM": "1048576",
+                "originalSize": "31245",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "3",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1674574432108858:25893"
+        }
+    },
+    "1674574432108369:25418": {
+        "IResourceController": {
+            "name": "plastic_params",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1604002814339147:398697",
+            "fileId": "1674574432108651:25729",
+            "originalId": "1674574432108652:25730",
+            "publicId": "1674574432109519:26092",
+            "expected_hash": "e8ba960fde0512329f0f3fe28552e3a1",
+            "additional": {
+                "originHash": "e8ba960fde0512329f0f3fe28552e3a1"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1604002814339147:398697",
+            "name": "Files/File_1674574432108651_25729.jpg",
+            "flags": 1
+        }
+    },
+    "1674574432108651:25729": {
+        "IFileManager": {
+            "path": "Files/File_1674574432108651_25729.jpg"
+        }
+    },
+    "1674574432108652:25730": {
+        "IFileManager": {
+            "path": "Files/File_1674574432108652_25730.jpg"
+        }
+    },
+    "1674574432108858:25893": {
+        "IFileManager": {
+            "path": "Files/File_1674574432108858_25893.jpg"
+        }
+    },
+    "1674574432108885:25913": {
+        "IFileManager": {
+            "path": "Files/File_1674574432108885_25913.jpg"
+        }
+    },
+    "1674574432109519:26092": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Character Textures/plastic_params.jpg",
+                "hash": "e8ba960fde0512329f0f3fe28552e3a1"
+            }
+        }
+    }
+}

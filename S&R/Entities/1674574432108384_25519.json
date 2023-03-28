@@ -1,0 +1,39 @@
+{
+    "1674574432108384:25519": {
+        "IResourceController": {
+            "name": "mat_zebra",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1645563454247687:1250633",
+            "fileId": "1674574432109009:26007",
+            "originalId": "1674574432109010:26008",
+            "publicId": "1674574432109568:26213",
+            "expected_hash": "177b7889add749892fb331b68ffd5183"
+        },
+        "IResourceManager": {
+            "uid": "1645563454247687:1250633",
+            "name": "Files/File_1674574432109009_26007",
+            "flags": 1
+        }
+    },
+    "1674574432109009:26007": {
+        "IFileManager": {
+            "path": "Files/File_1674574432109009_26007"
+        }
+    },
+    "1674574432109010:26008": {
+        "IFileManager": {
+            "path": "Files/File_1674574432109010_26008.lsmat"
+        }
+    },
+    "1674574432109568:26213": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/mat_zebra.lsmat",
+                "hash": "4d88d6c2b25512174254c88cff1e6363"
+            }
+        }
+    }
+}

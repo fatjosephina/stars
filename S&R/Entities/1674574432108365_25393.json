@@ -1,0 +1,42 @@
+{
+    "1674574432108365:25393": {
+        "IResourceController": {
+            "name": "InfoButton",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1601930217469720:10985006",
+            "fileId": "1674574432108438:25557",
+            "originalId": "1674574432108440:25558",
+            "publicId": "1674574432109507:26064",
+            "expected_hash": "1322cba4202f8c4062a8cdfa0a433fde",
+            "additional": {
+                "isUnpackedInPublic": "false"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1601930217469720:10985006",
+            "name": "Files/File_1674574432108438_25557",
+            "flags": 1
+        }
+    },
+    "1674574432108438:25557": {
+        "IFileManager": {
+            "path": "Files/File_1674574432108438_25557"
+        }
+    },
+    "1674574432108440:25558": {
+        "IFileManager": {
+            "path": "Files/File_1674574432108440_25558.lsmat"
+        }
+    },
+    "1674574432109507:26064": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/UI/InfoButton.lsmat",
+                "hash": "561fc924486872d5070cf36f6bb001c0"
+            }
+        }
+    }
+}

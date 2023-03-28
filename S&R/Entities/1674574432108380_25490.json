@@ -1,0 +1,33 @@
+{
+    "1674574432108380:25490": {
+        "IResourceController": {
+            "name": "TweenSetOnUpdate",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1638193271711732:186674",
+            "fileId": "1674574432108951:25963",
+            "publicId": "1674574432109555:26179",
+            "expected_hash": "cdf7f4a0391cc48c31c0e7cf4eac5395"
+        },
+        "IResourceManager": {
+            "uid": "1638193271711732:186674",
+            "name": "Files/File_1674574432108951_25963.js",
+            "flags": 1
+        }
+    },
+    "1674574432108951:25963": {
+        "IFileManager": {
+            "path": "Files/File_1674574432108951_25963.js"
+        }
+    },
+    "1674574432109555:26179": {
+        "IResourceController": {
+            "public": {
+                "path": "Tween/Visual Scripting Custom Nodes/Tween Nodes/Modifiers/TweenSetOnUpdate.js",
+                "hash": "cdf7f4a0391cc48c31c0e7cf4eac5395"
+            }
+        }
+    }
+}

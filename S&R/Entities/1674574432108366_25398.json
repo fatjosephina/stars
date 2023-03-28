@@ -1,0 +1,42 @@
+{
+    "1674574432108366:25398": {
+        "IResourceController": {
+            "name": "UIcube_red",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1602116422573755:6799257",
+            "fileId": "1674574432108451:25567",
+            "originalId": "1674574432108453:25568",
+            "publicId": "1674574432109510:26070",
+            "expected_hash": "ac4ae06ed183f4fdefb77439bf9c4c2a",
+            "additional": {
+                "isUnpackedInPublic": "false"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1602116422573755:6799257",
+            "name": "Files/File_1674574432108451_25567",
+            "flags": 1
+        }
+    },
+    "1674574432108451:25567": {
+        "IFileManager": {
+            "path": "Files/File_1674574432108451_25567"
+        }
+    },
+    "1674574432108453:25568": {
+        "IFileManager": {
+            "path": "Files/File_1674574432108453_25568.lsmat"
+        }
+    },
+    "1674574432109510:26070": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/UI/UIcube_red.lsmat",
+                "hash": "55e60b0ebb315b20ca6ad3bd60e1e1cb"
+            }
+        }
+    }
+}

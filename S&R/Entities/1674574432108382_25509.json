@@ -1,0 +1,39 @@
+{
+    "1674574432108382:25509": {
+        "IResourceController": {
+            "name": "TweenSphereDiffuse",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1645558865425991:549347",
+            "fileId": "1674574432108980:25985",
+            "originalId": "1674574432108981:25986",
+            "publicId": "1674574432109564:26203",
+            "expected_hash": "518f4b62162d617fb62676dbbeb84780"
+        },
+        "IResourceManager": {
+            "uid": "1645558865425991:549347",
+            "name": "Files/File_1674574432108980_25985",
+            "flags": 1
+        }
+    },
+    "1674574432108980:25985": {
+        "IFileManager": {
+            "path": "Files/File_1674574432108980_25985"
+        }
+    },
+    "1674574432108981:25986": {
+        "IFileManager": {
+            "path": "Files/File_1674574432108981_25986.lsmat"
+        }
+    },
+    "1674574432109564:26203": {
+        "IResourceController": {
+            "public": {
+                "path": "Tween/ExampleResources [REMOVE_ME]/Materials/TweenSphereDiffuse.lsmat",
+                "hash": "bf6014a0cf85014ed21d82db83df01a7"
+            }
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "1674574432108384:25517": {
+        "IResourceController": {
+            "name": "mat_leopard",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1645562840549612:951935",
+            "fileId": "1674574432109003:26003",
+            "originalId": "1674574432109005:26004",
+            "publicId": "1674574432109567:26211",
+            "expected_hash": "7451b712380501eb6b939b60c7e1fb0d"
+        },
+        "IResourceManager": {
+            "uid": "1645562840549612:951935",
+            "name": "Files/File_1674574432109003_26003",
+            "flags": 1
+        }
+    },
+    "1674574432109003:26003": {
+        "IFileManager": {
+            "path": "Files/File_1674574432109003_26003"
+        }
+    },
+    "1674574432109005:26004": {
+        "IFileManager": {
+            "path": "Files/File_1674574432109005_26004.lsmat"
+        }
+    },
+    "1674574432109567:26211": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/mat_leopard.lsmat",
+                "hash": "8bce362266b3a66b6fdc0dafbe8ebd47"
+            }
+        }
+    }
+}

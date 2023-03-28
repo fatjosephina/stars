@@ -1,0 +1,33 @@
+{
+    "1674574432108382:25506": {
+        "IResourceController": {
+            "name": "StoreTween",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1638193271866845:186821",
+            "fileId": "1674574432108971:25979",
+            "publicId": "1674574432109562:26200",
+            "expected_hash": "e48d104d528dc63010207b133b7ee6a1"
+        },
+        "IResourceManager": {
+            "uid": "1638193271866845:186821",
+            "name": "Files/File_1674574432108971_25979.js",
+            "flags": 1
+        }
+    },
+    "1674574432108971:25979": {
+        "IFileManager": {
+            "path": "Files/File_1674574432108971_25979.js"
+        }
+    },
+    "1674574432109562:26200": {
+        "IResourceController": {
+            "public": {
+                "path": "Tween/Visual Scripting Custom Nodes/Tween Nodes/Helpers/StoreTween.js",
+                "hash": "e48d104d528dc63010207b133b7ee6a1"
+            }
+        }
+    }
+}

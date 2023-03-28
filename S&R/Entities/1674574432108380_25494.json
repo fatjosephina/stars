@@ -1,0 +1,33 @@
+{
+    "1674574432108380:25494": {
+        "IResourceController": {
+            "name": "TweenPosTo",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1638193271752102:186702",
+            "fileId": "1674574432108956:25967",
+            "publicId": "1674574432109558:26185",
+            "expected_hash": "6286c27c1de09153ef213a649d256512"
+        },
+        "IResourceManager": {
+            "uid": "1638193271752102:186702",
+            "name": "Files/File_1674574432108956_25967.js",
+            "flags": 1
+        }
+    },
+    "1674574432108956:25967": {
+        "IFileManager": {
+            "path": "Files/File_1674574432108956_25967.js"
+        }
+    },
+    "1674574432109558:26185": {
+        "IResourceController": {
+            "public": {
+                "path": "Tween/Visual Scripting Custom Nodes/Tween Nodes/Position/TweenPosTo.js",
+                "hash": "6286c27c1de09153ef213a649d256512"
+            }
+        }
+    }
+}

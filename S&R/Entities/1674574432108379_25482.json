@@ -1,0 +1,33 @@
+{
+    "1674574432108379:25482": {
+        "IResourceController": {
+            "name": "QuinticFunc",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1638193271643816:186595",
+            "fileId": "1674574432108941:25955",
+            "publicId": "1674574432109552:26170",
+            "expected_hash": "8cf4b88976a8ad525d82dc75f0ef1d05"
+        },
+        "IResourceManager": {
+            "uid": "1638193271643816:186595",
+            "name": "Files/File_1674574432108941_25955.js",
+            "flags": 1
+        }
+    },
+    "1674574432108941:25955": {
+        "IFileManager": {
+            "path": "Files/File_1674574432108941_25955.js"
+        }
+    },
+    "1674574432109552:26170": {
+        "IResourceController": {
+            "public": {
+                "path": "Tween/Visual Scripting Custom Nodes/Tween Nodes/EasingFuncs/QuinticFunc.js",
+                "hash": "8cf4b88976a8ad525d82dc75f0ef1d05"
+            }
+        }
+    }
+}
