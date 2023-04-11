@@ -1,0 +1,42 @@
+{
+    "1674574432108365:25394": {
+        "IResourceController": {
+            "name": "particle_strokes",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1602115570822437:5568807",
+            "fileId": "1674574432108441:25559",
+            "originalId": "1674574432108442:25560",
+            "publicId": "1674574432109508:26066",
+            "expected_hash": "86de78ba693ea990962fe311f03c2fae",
+            "additional": {
+                "isUnpackedInPublic": "false"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1602115570822437:5568807",
+            "name": "Files/File_1674574432108441_25559",
+            "flags": 1
+        }
+    },
+    "1674574432108441:25559": {
+        "IFileManager": {
+            "path": "Files/File_1674574432108441_25559"
+        }
+    },
+    "1674574432108442:25560": {
+        "IFileManager": {
+            "path": "Files/File_1674574432108442_25560.lsmat"
+        }
+    },
+    "1674574432109508:26066": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/particle_strokes.lsmat",
+                "hash": "fdba806169aeb126e0dd0af44535c364"
+            }
+        }
+    }
+}

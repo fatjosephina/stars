@@ -1,0 +1,42 @@
+{
+    "1674574432108366:25396": {
+        "IResourceController": {
+            "name": "UIcube_yellow",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1602116298341536:6442513",
+            "fileId": "1674574432108446:25563",
+            "originalId": "1674574432108448:25564",
+            "publicId": "1674574432109509:26068",
+            "expected_hash": "ac4ae06ed183f4fdefb77439bf9c4c2a",
+            "additional": {
+                "isUnpackedInPublic": "false"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1602116298341536:6442513",
+            "name": "Files/File_1674574432108446_25563",
+            "flags": 1
+        }
+    },
+    "1674574432108446:25563": {
+        "IFileManager": {
+            "path": "Files/File_1674574432108446_25563"
+        }
+    },
+    "1674574432108448:25564": {
+        "IFileManager": {
+            "path": "Files/File_1674574432108448_25564.lsmat"
+        }
+    },
+    "1674574432109509:26068": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/UI/UIcube_yellow.lsmat",
+                "hash": "7528384a1492794e643f42af13d10f1d"
+            }
+        }
+    }
+}

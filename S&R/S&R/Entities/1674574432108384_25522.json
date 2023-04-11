@@ -1,0 +1,39 @@
+{
+    "1674574432108384:25522": {
+        "IResourceController": {
+            "name": "mat_dots",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1645564046167807:1882164",
+            "fileId": "1674574432109016:26013",
+            "originalId": "1674574432109017:26014",
+            "publicId": "1674574432109569:26216",
+            "expected_hash": "7451b712380501eb6b939b60c7e1fb0d"
+        },
+        "IResourceManager": {
+            "uid": "1645564046167807:1882164",
+            "name": "Files/File_1674574432109016_26013",
+            "flags": 1
+        }
+    },
+    "1674574432109016:26013": {
+        "IFileManager": {
+            "path": "Files/File_1674574432109016_26013"
+        }
+    },
+    "1674574432109017:26014": {
+        "IFileManager": {
+            "path": "Files/File_1674574432109017_26014.lsmat"
+        }
+    },
+    "1674574432109569:26216": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/mat_dots.lsmat",
+                "hash": "765c2057ca730d795b7fa3031f7b5963"
+            }
+        }
+    }
+}

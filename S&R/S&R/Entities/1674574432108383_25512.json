@@ -1,0 +1,39 @@
+{
+    "1674574432108383:25512": {
+        "IResourceController": {
+            "name": "PlayButton",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1645558955185749:895478",
+            "fileId": "1674574432108988:25991",
+            "originalId": "1674574432108989:25992",
+            "publicId": "1674574432109565:26207",
+            "expected_hash": "254634d69942a3a2e8de9605ba1c21f9"
+        },
+        "IResourceManager": {
+            "uid": "1645558955185749:895478",
+            "name": "Files/File_1674574432108988_25991",
+            "flags": 1
+        }
+    },
+    "1674574432108988:25991": {
+        "IFileManager": {
+            "path": "Files/File_1674574432108988_25991"
+        }
+    },
+    "1674574432108989:25992": {
+        "IFileManager": {
+            "path": "Files/File_1674574432108989_25992.lsmat"
+        }
+    },
+    "1674574432109565:26207": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/UI/PlayButton.lsmat",
+                "hash": "fe75f52e9e7e344f34e8a3476903ef47"
+            }
+        }
+    }
+}

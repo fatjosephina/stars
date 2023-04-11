@@ -1,0 +1,33 @@
+{
+    "1674574432108364:25384": {
+        "IResourceController": {
+            "name": "TweenBillboard [DEPRECATED]",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1600196742169628:196025",
+            "fileId": "1674574432108426:25547",
+            "publicId": "1674574432109502:26049",
+            "expected_hash": "758e79bc3b690f8d485a6fe41a406c73"
+        },
+        "IResourceManager": {
+            "uid": "1600196742169628:196025",
+            "name": "Files/File_1674574432108426_25547.js",
+            "flags": 1
+        }
+    },
+    "1674574432108426:25547": {
+        "IFileManager": {
+            "path": "Files/File_1674574432108426_25547.js"
+        }
+    },
+    "1674574432109502:26049": {
+        "IResourceController": {
+            "public": {
+                "path": "Tween/TweenTypes/Legacy/TweenBillboard [DEPRECATED].js",
+                "hash": "758e79bc3b690f8d485a6fe41a406c73"
+            }
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "1681207057730890:2447112": {
+        "IFileManager": {
+            "path": "Files/File_1681207057730890_2447112.js"
+        }
+    },
+    "1681207057742686:2447114": {
+        "IResourceController": {
+            "name": "RenderOnBothSides",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1681207057743201:2447115",
+            "fileId": "1681207057730890:2447112",
+            "publicId": "1681207057747278:2447121",
+            "expected_hash": "e676afe2e2b4d0182e4353217b50c860"
+        },
+        "IResourceManager": {
+            "uid": "1681207057743201:2447115",
+            "name": "Files/File_1681207057730890_2447112.js",
+            "flags": 1
+        }
+    },
+    "1681207057747278:2447121": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/RenderOnBothSides.js",
+                "hash": "e676afe2e2b4d0182e4353217b50c860"
+            }
+        }
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "1606934801602930:605925": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "56e5da08dd99c48ab0044f18386701dd"
+                    },
+                    "v": "1674574432108818:25862"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "1152",
+                "compressedSize": "1097",
+                "extension": "png",
+                "originalRAM": "9216",
+                "originalSize": "776",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1674574432108772:25825"
+        }
+    },
+    "1674574432108372:25440": {
+        "IResourceController": {
+            "name": "ui_coin",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1606934801602930:605925",
+            "fileId": "1674574432108739:25799",
+            "originalId": "1674574432108741:25800",
+            "publicId": "1674574432109530:26119",
+            "expected_hash": "691910a338d8120b8d354629d5c7eda5",
+            "additional": {
+                "originHash": "56e5da08dd99c48ab0044f18386701dd"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1606934801602930:605925",
+            "name": "Files/File1222.png",
+            "flags": 1
+        }
+    },
+    "1674574432108739:25799": {
+        "IFileManager": {
+            "path": "Files/File_1674574432108739_25799.pvr"
+        }
+    },
+    "1674574432108741:25800": {
+        "IFileManager": {
+            "path": "Files/File_1674574432108741_25800.png"
+        }
+    },
+    "1674574432108772:25825": {
+        "IFileManager": {
+            "path": "Files/File_1674574432108772_25825.png"
+        }
+    },
+    "1674574432108818:25862": {
+        "IFileManager": {
+            "path": "Files/File_1674574432108818_25862.pvr"
+        }
+    },
+    "1674574432109530:26119": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/UI/ui_coin.png",
+                "hash": "56e5da08dd99c48ab0044f18386701dd"
+            }
+        }
+    }
+}

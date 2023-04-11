@@ -1,0 +1,42 @@
+{
+    "1674574432108366:25400": {
+        "IResourceController": {
+            "name": "UIcube_particles",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1602116562892782:6958137",
+            "fileId": "1674574432108456:25571",
+            "originalId": "1674574432108457:25572",
+            "publicId": "1674574432109510:26072",
+            "expected_hash": "a8933585b9dc116c7213ae2249d9808d",
+            "additional": {
+                "isUnpackedInPublic": "false"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1602116562892782:6958137",
+            "name": "Files/File_1674574432108456_25571",
+            "flags": 1
+        }
+    },
+    "1674574432108456:25571": {
+        "IFileManager": {
+            "path": "Files/File_1674574432108456_25571"
+        }
+    },
+    "1674574432108457:25572": {
+        "IFileManager": {
+            "path": "Files/File_1674574432108457_25572.lsmat"
+        }
+    },
+    "1674574432109510:26072": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/UI/UIcube_particles.lsmat",
+                "hash": "95f9efed1f6420229234a55f2cfaa467"
+            }
+        }
+    }
+}

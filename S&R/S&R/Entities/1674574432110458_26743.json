@@ -1,0 +1,22 @@
+{
+    "1674574432109522:26101": {
+        "IResourceController": {
+            "public": {
+                "path": "Models/tween-cube"
+            }
+        }
+    },
+    "1674574432110458:26743": {
+        "IResourceController": {
+            "name": "tween-cube",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1674574432109522:26101",
+            "resources": [
+                "1674574432110458:26742"
+            ]
+        }
+    }
+}

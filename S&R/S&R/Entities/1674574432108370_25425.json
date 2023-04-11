@@ -1,0 +1,94 @@
+{
+    "1604348276803077:421731": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "381888",
+                "compressedSize": "236345",
+                "extension": "mesh",
+                "originalRAM": "381888",
+                "originalSize": "236345",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "normal"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "tangent"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "texture0"
+                            }
+                        ]
+                    },
+                    "isCompressed": "false",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1674574432108897:25922"
+        }
+    },
+    "1674574432108370:25425": {
+        "IResourceController": {
+            "name": "Cube-hand_unwrap",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1604348276803077:421731",
+            "fileId": "1674574432108669:25743",
+            "originalId": "1674574432108670:25744",
+            "publicId": "1674574432109523:26103",
+            "expected_hash": "3ab6fa371361c3889e66c5f57affc51c"
+        },
+        "IResourceManager": {
+            "uid": "1604348276803077:421731",
+            "name": "Files/File_1674574432108669_25743.mesh",
+            "flags": 1
+        }
+    },
+    "1674574432108669:25743": {
+        "IFileManager": {
+            "path": "Files/File_1674574432108669_25743.mesh"
+        }
+    },
+    "1674574432108670:25744": {
+        "IFileManager": {
+            "path": "Files/File_1674574432108670_25744.mesh"
+        }
+    },
+    "1674574432108897:25922": {
+        "IFileManager": {
+            "path": "Files/File_1674574432108897_25922.mesh"
+        }
+    },
+    "1674574432109523:26103": {
+        "IResourceController": {
+            "public": {
+                "path": "Models/tween-cube/Meshes/Cube-hand_unwrap.mesh",
+                "hash": "3ab6fa371361c3889e66c5f57affc51c"
+            }
+        }
+    }
+}

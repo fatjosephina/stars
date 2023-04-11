@@ -1,0 +1,24 @@
+{
+    "1674574432109538:26139": {
+        "IResourceController": {
+            "public": {
+                "path": "Tween/ExampleResources [REMOVE_ME]/Meshes",
+                "hash": "d722502a3c0f0b6c32a526ddf82db0d6"
+            }
+        }
+    },
+    "1674574432110339:26716": {
+        "IResourceController": {
+            "name": "Meshes",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1674574432109538:26139",
+            "resources": [
+                "1674574432108375:25457",
+                "1674574432108375:25458"
+            ]
+        }
+    }
+}

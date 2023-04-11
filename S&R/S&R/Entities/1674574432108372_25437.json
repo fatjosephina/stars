@@ -1,0 +1,79 @@
+{
+    "1606933823610261:228312": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "88912f32ae581774c5289e3ed9e438b7"
+                    },
+                    "v": "1674574432108814:25859"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "11480",
+                "compressedSize": "3139",
+                "extension": "png",
+                "originalRAM": "90160",
+                "originalSize": "3231",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1674574432108799:25847"
+        }
+    },
+    "1674574432108372:25437": {
+        "IResourceController": {
+            "name": "eye_dizzy",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1606933823610261:228312",
+            "fileId": "1674574432108732:25793",
+            "originalId": "1674574432108733:25794",
+            "publicId": "1674574432109529:26116",
+            "expected_hash": "6383b8f64e79181937630be561d64e6d",
+            "additional": {
+                "originHash": "88912f32ae581774c5289e3ed9e438b7"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1606933823610261:228312",
+            "name": "Files/File1200.png",
+            "flags": 1
+        }
+    },
+    "1674574432108732:25793": {
+        "IFileManager": {
+            "path": "Files/File_1674574432108732_25793.pvr"
+        }
+    },
+    "1674574432108733:25794": {
+        "IFileManager": {
+            "path": "Files/File_1674574432108733_25794.png"
+        }
+    },
+    "1674574432108799:25847": {
+        "IFileManager": {
+            "path": "Files/File_1674574432108799_25847.png"
+        }
+    },
+    "1674574432108814:25859": {
+        "IFileManager": {
+            "path": "Files/File_1674574432108814_25859.pvr"
+        }
+    },
+    "1674574432109529:26116": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Character Face/eye_dizzy.png",
+                "hash": "88912f32ae581774c5289e3ed9e438b7"
+            }
+        }
+    }
+}

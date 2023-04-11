@@ -1,0 +1,42 @@
+{
+    "1674574432108369:25415": {
+        "IResourceController": {
+            "name": "mat_stripes",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1603829031388330:12160882",
+            "fileId": "1674574432108644:25723",
+            "originalId": "1674574432108645:25724",
+            "publicId": "1674574432109517:26089",
+            "expected_hash": "b36d7cfc6e5489cdb0cff1071126906a",
+            "additional": {
+                "isUnpackedInPublic": "false"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1603829031388330:12160882",
+            "name": "Files/File_1674574432108644_25723",
+            "flags": 1
+        }
+    },
+    "1674574432108644:25723": {
+        "IFileManager": {
+            "path": "Files/File_1674574432108644_25723"
+        }
+    },
+    "1674574432108645:25724": {
+        "IFileManager": {
+            "path": "Files/File_1674574432108645_25724.lsmat"
+        }
+    },
+    "1674574432109517:26089": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/mat_stripes.lsmat",
+                "hash": "bb96efc1a55f13a69514723c801b29e7"
+            }
+        }
+    }
+}

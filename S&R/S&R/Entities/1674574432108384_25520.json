@@ -1,0 +1,39 @@
+{
+    "1674574432108384:25520": {
+        "IResourceController": {
+            "name": "mat_leather",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1645563511948628:1369813",
+            "fileId": "1674574432109011:26009",
+            "originalId": "1674574432109012:26010",
+            "publicId": "1674574432109568:26214",
+            "expected_hash": "7451b712380501eb6b939b60c7e1fb0d"
+        },
+        "IResourceManager": {
+            "uid": "1645563511948628:1369813",
+            "name": "Files/File_1674574432109011_26009",
+            "flags": 1
+        }
+    },
+    "1674574432109011:26009": {
+        "IFileManager": {
+            "path": "Files/File_1674574432109011_26009"
+        }
+    },
+    "1674574432109012:26010": {
+        "IFileManager": {
+            "path": "Files/File_1674574432109012_26010.lsmat"
+        }
+    },
+    "1674574432109568:26214": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/mat_leather.lsmat",
+                "hash": "b158c930f4a26a000e9615ffc7dd78a8"
+            }
+        }
+    }
+}

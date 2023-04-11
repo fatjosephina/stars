@@ -1,0 +1,79 @@
+{
+    "1604004344011276:2301984": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "3072",
+                        "uncompressed_hash": "ad262cc91b2d0dd414b99362952e0431"
+                    },
+                    "v": "1674574432108892:25918"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "4194304",
+                "compressedSize": "401206",
+                "extension": "jpg",
+                "originalRAM": "4194304",
+                "originalSize": "496704",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "3",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1674574432108860:25894"
+        }
+    },
+    "1674574432108370:25422": {
+        "IResourceController": {
+            "name": "fabric_knit_base",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1604004344011276:2301984",
+            "fileId": "1674574432108661:25737",
+            "originalId": "1674574432108662:25738",
+            "publicId": "1674574432109520:26096",
+            "expected_hash": "bafcb6a1270452ab2ca5473c174046b7",
+            "additional": {
+                "originHash": "ad262cc91b2d0dd414b99362952e0431"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1604004344011276:2301984",
+            "name": "Files/File_1674574432108661_25737.jpg",
+            "flags": 1
+        }
+    },
+    "1674574432108661:25737": {
+        "IFileManager": {
+            "path": "Files/File_1674574432108661_25737.jpg"
+        }
+    },
+    "1674574432108662:25738": {
+        "IFileManager": {
+            "path": "Files/File_1674574432108662_25738.jpg"
+        }
+    },
+    "1674574432108860:25894": {
+        "IFileManager": {
+            "path": "Files/File_1674574432108860_25894.jpg"
+        }
+    },
+    "1674574432108892:25918": {
+        "IFileManager": {
+            "path": "Files/File_1674574432108892_25918.jpg"
+        }
+    },
+    "1674574432109520:26096": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Character Textures/fabric_knit_base.jpg",
+                "hash": "ad262cc91b2d0dd414b99362952e0431"
+            }
+        }
+    }
+}

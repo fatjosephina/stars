@@ -1,0 +1,79 @@
+{
+    "1603753241577239:9550086": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "3072",
+                        "uncompressed_hash": "cc1964ec56f8bda178db1dad12c02c06"
+                    },
+                    "v": "1674574432108869:25901"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "1394606",
+                "compressedSize": "49712",
+                "extension": "jpg",
+                "originalRAM": "1048576",
+                "originalSize": "49712",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "3",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1674574432108844:25882"
+        }
+    },
+    "1674574432108367:25404": {
+        "IResourceController": {
+            "name": "zbra1_param",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1603753241577239:9550086",
+            "fileId": "1674574432108617:25701",
+            "originalId": "1674574432108618:25702",
+            "publicId": "1674574432109513:26078",
+            "expected_hash": "cc1964ec56f8bda178db1dad12c02c06",
+            "additional": {
+                "originHash": "cc1964ec56f8bda178db1dad12c02c06"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1603753241577239:9550086",
+            "name": "Files/File_1674574432108617_25701.jpg",
+            "flags": 1
+        }
+    },
+    "1674574432108617:25701": {
+        "IFileManager": {
+            "path": "Files/File_1674574432108617_25701.jpg"
+        }
+    },
+    "1674574432108618:25702": {
+        "IFileManager": {
+            "path": "Files/File_1674574432108618_25702.jpg"
+        }
+    },
+    "1674574432108844:25882": {
+        "IFileManager": {
+            "path": "Files/File_1674574432108844_25882.jpg"
+        }
+    },
+    "1674574432108869:25901": {
+        "IFileManager": {
+            "path": "Files/File_1674574432108869_25901.jpg"
+        }
+    },
+    "1674574432109513:26078": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Character Textures/zbra1_param.jpg",
+                "hash": "cc1964ec56f8bda178db1dad12c02c06"
+            }
+        }
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "1674574432108366:25397": {
+        "IResourceController": {
+            "name": "UIcube_changeColor",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1602116304706199:6484946",
+            "fileId": "1674574432108449:25565",
+            "originalId": "1674574432108450:25566",
+            "publicId": "1674574432109509:26069",
+            "expected_hash": "4715d200615352d2fac8ba19e0bc8f26",
+            "additional": {
+                "isUnpackedInPublic": "false"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1602116304706199:6484946",
+            "name": "Files/File_1674574432108449_25565",
+            "flags": 1
+        }
+    },
+    "1674574432108449:25565": {
+        "IFileManager": {
+            "path": "Files/File_1674574432108449_25565"
+        }
+    },
+    "1674574432108450:25566": {
+        "IFileManager": {
+            "path": "Files/File_1674574432108450_25566.lsmat"
+        }
+    },
+    "1674574432109509:26069": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/UI/UIcube_changeColor.lsmat",
+                "hash": "8172dd54b07c934e273009f2b949e113"
+            }
+        }
+    }
+}

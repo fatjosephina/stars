@@ -1,0 +1,26 @@
+{
+    "1674574432109536:26134": {
+        "IResourceController": {
+            "public": {
+                "path": "Tween/ExampleResources [REMOVE_ME]",
+                "hash": "46e7f6488b098baac23d4324be047cb9"
+            }
+        }
+    },
+    "1674574432110340:26717": {
+        "IResourceController": {
+            "name": "ExampleResources [REMOVE_ME]",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1674574432109536:26134",
+            "resources": [
+                "1674574432110320:26714",
+                "1674574432110323:26715",
+                "1674574432110339:26716",
+                "1674574432108375:25459"
+            ]
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "1674574432108365:25391": {
+        "IResourceController": {
+            "name": "TweenSyncHelper",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1601491252584774:245980",
+            "fileId": "1674574432108434:25554",
+            "publicId": "1674574432109506:26061",
+            "expected_hash": "e38dc10411891e3aa3d9c43d8e923fb8"
+        },
+        "IResourceManager": {
+            "uid": "1601491252584774:245980",
+            "name": "Files/File_1674574432108434_25554.js",
+            "flags": 1
+        }
+    },
+    "1674574432108434:25554": {
+        "IFileManager": {
+            "path": "Files/File_1674574432108434_25554.js"
+        }
+    },
+    "1674574432109506:26061": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/TweenSyncHelper.js",
+                "hash": "e38dc10411891e3aa3d9c43d8e923fb8"
+            }
+        }
+    }
+}
