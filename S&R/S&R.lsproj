@@ -1,13 +1,13 @@
 {
     "lens_id": "",
-    "document_id": "dZ8gBr58gDFEMovftWxd",
+    "document_id": "CfhKeKh8TooarvCdH1CM",
     "original_document_id": "cUCn3CbcEs7_eNKq-Dsy",
     "version": "31",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
     "isReadOnly": "false",
-    "isAutoSaved": "false",
+    "isAutoSaved": "true",
     "api_level": "public",
     "public_api_user_data_access": "unrestricted",
     "studioVersion": {
@@ -33,8 +33,6 @@
         },
         "Material::UiComponent": "",
         "MetaInfoUIComponent": {
-            "icon_hash": "11f1e1039dab70ab739c961ec5ca9963",
-            "icon_path": "icon.png",
             "hints": [
                 ""
             ],
