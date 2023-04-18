@@ -1,0 +1,39 @@
+{
+    "1681835515397078:94794": {
+        "IFileManager": {
+            "path": "Files/File_1681835515397078_94794"
+        }
+    },
+    "1681835515405039:94795": {
+        "IResourceController": {
+            "name": "blinn2",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1681835515405050:94796",
+            "fileId": "1681835515397078:94794",
+            "originalId": "1681835515483152:94805",
+            "publicId": "1681835519703154:95171",
+            "expected_hash": "975815891b55e12a43f3a8051811f25a"
+        },
+        "IResourceManager": {
+            "uid": "1681835515405050:94796",
+            "name": "Files/File_1681835515397078_94794",
+            "flags": 1
+        }
+    },
+    "1681835515483152:94805": {
+        "IFileManager": {
+            "path": "Files/File_1681835515483152_94805.lsmat"
+        }
+    },
+    "1681835519703154:95171": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/Sun/Materials/blinn2.lsmat",
+                "hash": "76361d2d2316aa09302b640cd4c137a1"
+            }
+        }
+    }
+}

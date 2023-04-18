@@ -1,0 +1,30 @@
+{
+    "1681835519003173:95102": {
+        "IResourceController": {
+            "name": "Sun",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1681835519002980:95077",
+            "fileId": "1681835519091215:95143",
+            "originalId": "1681835675271936:107684",
+            "expected_hash": "98b1e7ff7038611c1d7965f69d506a8c"
+        },
+        "IResourceManager": {
+            "uid": "1681835519002980:95077",
+            "name": "Sun",
+            "flags": 0
+        }
+    },
+    "1681835519091215:95143": {
+        "IFileManager": {
+            "path": "Files/File_1681835519091215_95143.oprfb"
+        }
+    },
+    "1681835675271936:107684": {
+        "IFileManager": {
+            "path": "Files/File_1681835675271936_107684.oprfb"
+        }
+    }
+}

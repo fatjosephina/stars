@@ -1,0 +1,33 @@
+{
+    "1681835406387882:77512": {
+        "IFileManager": {
+            "path": "Files/File_1681835406387882_77512.js"
+        }
+    },
+    "1681835406425594:77513": {
+        "IResourceController": {
+            "name": "TweenChain",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1681835406425620:77514",
+            "fileId": "1681835406387882:77512",
+            "publicId": "1681835406490101:77524",
+            "expected_hash": "12aa2a3ba3a1eaebcef5db294b5c5b7e"
+        },
+        "IResourceManager": {
+            "uid": "1681835406425620:77514",
+            "name": "Files/File_1681835406387882_77512.js",
+            "flags": 1
+        }
+    },
+    "1681835406490101:77524": {
+        "IResourceController": {
+            "public": {
+                "path": "Tween/TweenTypes/TweenChain.js",
+                "hash": "12aa2a3ba3a1eaebcef5db294b5c5b7e"
+            }
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "1681835515394145:94793": {
+        "IResourceController": {
+            "name": "Materials",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1681835519699604:95170",
+            "resources": [
+                "1681835515405039:94795",
+                "1681835517218650:94945"
+            ]
+        }
+    },
+    "1681835519699604:95170": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/Sun/Materials"
+            }
+        }
+    }
+}

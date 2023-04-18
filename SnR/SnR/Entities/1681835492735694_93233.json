@@ -1,0 +1,54 @@
+{
+    "1681835492735694:93233": {
+        "IResourceController": {
+            "name": "Sun",
+            "type": 18,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1681835519109803:95144",
+            "publicId": "1681835519691776:95169",
+            "expected_hash": "13afbb560664f690787cadb8a4b1b21d",
+            "resources": [
+                "1681835515159924:94740",
+                "1681835515394145:94793",
+                "1681835519003173:95102"
+            ],
+            "additional": {
+                "ImportParams": {
+                    "animationCurveOptimization": "true",
+                    "generatePivots": "true",
+                    "importBlendShapeAnimation": "false",
+                    "importTangents": "true",
+                    "importVertexAnimation": "false",
+                    "importVertexColor": "true",
+                    "recalculateTangents": "false",
+                    "regenerateNormalsForSkinned": "true"
+                },
+                "materialMapping": [
+                    {
+                        "k": "blinn1",
+                        "v": "1681835517218658:94946"
+                    },
+                    {
+                        "k": "blinn2",
+                        "v": "1681835515405050:94796"
+                    }
+                ]
+            }
+        }
+    },
+    "1681835519109803:95144": {
+        "IFileManager": {
+            "path": "Files/File_1681835519109803_95144.fbx"
+        }
+    },
+    "1681835519691776:95169": {
+        "IResourceController": {
+            "public": {
+                "path": "Sun.fbx",
+                "hash": "13afbb560664f690787cadb8a4b1b21d"
+            }
+        }
+    }
+}
