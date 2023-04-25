@@ -1,0 +1,39 @@
+{
+    "1682392184268995:50151": {
+        "IFileManager": {
+            "path": "Files/File_1682392184268995_50151"
+        }
+    },
+    "1682392184300988:50155": {
+        "IResourceController": {
+            "name": "SnRAnimation",
+            "type": 1,
+            "subtype": 5,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682392184305373:50158",
+            "fileId": "1682392184268995:50151",
+            "originalId": "1682392184312211:50165",
+            "publicId": "1682392184428919:50172",
+            "expected_hash": "5d8887bd922ef3de5b0ed9c853b09f85"
+        },
+        "IResourceManager": {
+            "uid": "1682392184305373:50158",
+            "name": "Files/File_1682392184268995_50151",
+            "flags": 1
+        }
+    },
+    "1682392184312211:50165": {
+        "IFileManager": {
+            "path": "Files/File_1682392184312211_50165.gif"
+        }
+    },
+    "1682392184428919:50172": {
+        "IResourceController": {
+            "public": {
+                "path": "SnRAnimation.gif",
+                "hash": "ff1d60eb45eecfd132ed168903bd7c3e"
+            }
+        }
+    }
+}

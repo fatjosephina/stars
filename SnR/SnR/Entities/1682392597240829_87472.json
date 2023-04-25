@@ -1,0 +1,33 @@
+{
+    "1682392597224464:87471": {
+        "IFileManager": {
+            "path": "Files/File_1682392597224464_87471.js"
+        }
+    },
+    "1682392597240829:87472": {
+        "IResourceController": {
+            "name": "PlayOnTap",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682392597240932:87473",
+            "fileId": "1682392597224464:87471",
+            "publicId": "1682392597247531:87478",
+            "expected_hash": "0d1641b6a02b4aa0a5aab67663a7fdb5"
+        },
+        "IResourceManager": {
+            "uid": "1682392597240932:87473",
+            "name": "Files/File_1682392597224464_87471.js",
+            "flags": 1
+        }
+    },
+    "1682392597247531:87478": {
+        "IResourceController": {
+            "public": {
+                "path": "PlayOnTap.js",
+                "hash": "0d1641b6a02b4aa0a5aab67663a7fdb5"
+            }
+        }
+    }
+}
