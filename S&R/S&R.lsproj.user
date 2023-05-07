@@ -1,0 +1,71 @@
+{
+    "InspectorUiComponent": {
+        "collapsedList": [
+            []
+        ]
+    },
+    "MapUiComponent": {},
+    "Material::UiComponent": {
+        "active_graph_asset": "1680486322428548:267143"
+    },
+    "MetaInfoUIComponent": {},
+    "ObjectTracking3DUIComponent": {
+        "foldedOwnerSceneObjects": []
+    },
+    "PreviewUiComponent": {},
+    "ResourceUiComponent": {
+        "collapsedList": [
+            [
+                [
+                    "Particles",
+                    "Particles Emitter Material"
+                ],
+                [
+                    "Particles",
+                    "Particles Mesh"
+                ],
+                [
+                    "Particles",
+                    "Particles Texture"
+                ]
+            ]
+        ]
+    },
+    "SceneTreeUiComponent": {
+        "collapsedList": [
+            []
+        ],
+        "selectionSetList": {}
+    },
+    "Script::UiComponent": {
+        "active_graph_asset": "-1:-1"
+    },
+    "VFX::UiComponent": {
+        "active_graph_asset": "-1:-1"
+    },
+    "IFileManager": {},
+    "IResourceManager": {},
+    "InspectorComponent": {},
+    "LayerComponent": {},
+    "RemoteApi::ModelManager": {},
+    "RenderOrderComponent": {},
+    "WorldComponent": {},
+    "AssetImportController": {},
+    "Compression::IController": {},
+    "DigitalGoodsController": {},
+    "IResourceController": {
+        "sourcePaths": {
+            "1680486322041416:267039": "C:/Users/Alexc/OneDrive/Pictures/Candy/yaycandies/size1/explosionpink02.png",
+            "1680486322756262:267189": "C:/Users/Alexc/AppData/Local/Snap/Lens Studio/cache/temp/StudiovpRsBKpnZBOL//system//emergencyFiles/emergencyMesh.mesh"
+        }
+    },
+    "InspectorController": {
+        "selection": {
+            "objects": [
+                "1600196507403386:122963"
+            ]
+        }
+    },
+    "ObjectPrefabController": {},
+    "ObjectTracking3DController": {}
+}
